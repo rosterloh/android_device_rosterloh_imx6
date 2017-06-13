@@ -1,0 +1,3 @@
+add_lunch_combo hummingboard-user
+add_lunch_combo hummingboard-userdebug
+add_lunch_combo hummingboard-eng
